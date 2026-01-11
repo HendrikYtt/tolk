@@ -1,3 +1,4 @@
+// Tolk Frontend App
 import { Toaster } from 'react-hot-toast';
 import { Header } from './components/ui';
 import { TranscriberPage } from './pages';
